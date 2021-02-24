@@ -1,2 +1,0 @@
-# excursion
-Codecadamy excursion test
